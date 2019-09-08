@@ -18,7 +18,7 @@ export default {
     ]
   },
   router: {
-    base: '/nuxt-project-sample/'
+    base: '/sample-nuxt-vuetify/'
   },
   /*
   ** Customize the progress-bar color
