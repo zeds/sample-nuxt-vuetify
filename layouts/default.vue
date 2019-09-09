@@ -98,12 +98,12 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
+          title: 'わんこ一覧',
           to: '/'
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
+          title: 'ゴミ拾いとは',
           to: '/inspire'
         }
       ],
