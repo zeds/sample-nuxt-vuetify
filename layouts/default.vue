@@ -105,7 +105,19 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'ゴミ拾いとは',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Login',
+          to: '/login'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'PrivacyPolicy',
+          to: '/privacyPolicy'
         }
+
+
       ],
       miniVariant: false,
       right: true,
